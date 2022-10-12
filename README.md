@@ -1,11 +1,11 @@
 # RangeTestingTime
 
-This repository contains the code to assess range and its impacting factors with a novel approach that is aimed towards studies making use of binary presence/absence metrics. Usin an extensive empirical dataset, we applied the new method to explore and quantify the performance of acoustic receivers in a set-up in a Belgian offshore windfarm. 
+This repository contains the code to assess range and its impacting factors with a novel approach that is aimed towards studies making use of binary presence/absence metrics. Using an extensive empirical data set, we applied the new method to explore and quantify the performance of acoustic receivers in a set-up in a Belgian offshore wind farm. 
 
 Full details on the approach and the analysis are outlined in:
-**Goossens J., Buyse J., Bruneel S., Verhelst P., Goethals P., Torreele E., Moens T., Reubens J.  - Taking the time for range testing - An approach to account for temporal resolution in acoustic telemetry detection range assessments.** (submitted for publication)
+**Goossens J., Buyse J., Bruneel S., Verhelst P., Goethals P., Torreele E., Moens T., Reubens J.  - Taking the time for range testing - An approach to account for temporal resolution in acoustic telemetry detection range assessments. Animal Biotelemetry 10(1): 17. https://dx.doi.org/10.1186**
 
-Data are available through DOI: 
+Data are available through DOI: https://doi.org/10.14284/545
 
 The following protocol executes the analysis outlined in the publication. Scripts can be found in the folder src.
 
